@@ -42,8 +42,8 @@ Os modelos foram avaliados utilizando as métricas **RMSE** (Raiz do Erro Quadr�
 
 | Modelo | Tipo | R² Score (Aproximado) | Observação |
 | :--- | :--- | :--- | :--- |
-| **Regressão Linear** | Paramétrico | [INSERIR O VALOR DO R² AQUI, EX: 0.78] | Captura a tendência geral, mas sofre com dados não lineares. |
-| **Árvore de Decisão** | Não Paramétrico | [INSERIR O VALOR DO R² AQUI, EX: 0.85] | Melhor adaptação a padrões complexos (ex: impacto de fumantes). |
+| **Regressão Linear** | Paramétrico | R2 de 0.7833 | Captura a tendência geral, mas sofre com dados não lineares. |
+| **Árvore de Decisão** | Não Paramétrico | R2 de 0.8310 | Melhor adaptação a padrões complexos (ex: impacto de fumantes). |
 
 > **Conclusão:** O modelo [DIGA QUAL FOI MELHOR: Árvore ou Linear] apresentou melhor desempenho para este conjunto de dados, pois conseguiu capturar as nuances não lineares das variáveis, especialmente a variável `smoker` (fumante).
 
